@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 <a id="como-usar"></a>
 ## :zap: Como usar
 
-- Faça um clone desse repositório: `https://github.com/ThalysonOliveira/csv_uploader.git`
+- Faça um clone desse repositório: `https://github.com/ThalysonOliveira/Csv_uploader.git`
 - Instale as dependências: `npm i`
 - Configurando o banco para uso:
    - `No arquivo .env adicione suas permissões de banco no DATABASE_URL`
