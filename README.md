@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 <a id="funcionalidades"></a>
 ## 🛠️ Funcionalidades
 
-API desenvolvida em node, utilizando typescript para por em pratica os conceitos de stream e primsa
+API desenvolvida em node, utilizando typescript para por em pratica os conceitos de stream e prisma
 - Upload de arquivos csv, onde os dados são armazenados no banco de dados.
 
 <a id="rotas"></a>
